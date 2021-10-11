@@ -1,9 +1,13 @@
 # NvidiaInstantRename
 A simple tool to move and rename [Nvidia Share](https://www.nvidia.com/en-us/geforce/geforce-experience/shadowplay/) (Shadowplay) recordings to a more sensible format.
 
+# [Tutorial/Showcase video](https://www.youtube.com/watch?v=E2uyvlV9OGs)
+
 ![GUI](img/gui.png?raw=true)
 
 ![Comparison](img/comparison.png?raw=true)
+
+https://www.youtube.com/watch?v=E2uyvlV9OGs
 
 ## Using the GUI
 If you are not a programmer and wish to simply use the GUI, go to the [Releases](https://github.com/rebane2001/NvidiaInstantRename/releases) page and download the exe of the latest version - then run it. Note that Windows SmartScreen might block it due to it not being popular and signed.
